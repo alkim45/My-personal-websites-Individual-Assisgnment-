@@ -18,7 +18,7 @@ body {
 
 a:hover,a:active
 {
-background-color:darkgreen;
+background-color:blue;
+	text-transform: capitalize;
 }
-     
-	
+
