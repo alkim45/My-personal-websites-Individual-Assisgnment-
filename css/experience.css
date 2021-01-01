@@ -4,7 +4,7 @@ body {
 	background: #507C36;
 	font-family: calibri;
 background-color:pink;
-	text-transform: lowercase;
+	text-transform: none;
      }
 
     a:link,a:visited
