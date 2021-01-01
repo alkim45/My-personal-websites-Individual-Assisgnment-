@@ -3,7 +3,8 @@ body {
 
 	background: #507C36;
 	font-family: Algerian;
-
+background-color:pink;
+	text-transform: lowercase;
      }
 
     a:link,a:visited
@@ -18,7 +19,7 @@ body {
 
 a:hover,a:active
 {
-background-color:blue;
+background-color:pink;
 	text-transform: capitalize;
 }
 
