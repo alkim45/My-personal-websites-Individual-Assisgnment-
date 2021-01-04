@@ -1,15 +1,15 @@
 
 body {
 
-	background: #507C36;
+	background:  White;
 	font-family: Algerian;
 
      }
 
     a:link,a:visited
 {
-	background-color: black;
-	color:whitesmoke;
+	background-color: LightSalmon;
+	color:White;
 	padding: 15px;
 	text-align: center;
 	text-decoration: none;
