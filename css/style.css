@@ -17,6 +17,21 @@ body {
 	display: inline-block;
 }
 
+}
+
+.bg {
+  /* The image used */
+  background-image: url("fennekin by alkim45.png");
+
+  /* Full height */
+  height: 50%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 a:hover,a:active
 {
 background-color:#CD6855;
